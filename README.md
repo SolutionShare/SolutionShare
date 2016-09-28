@@ -6,7 +6,7 @@ Team name: SolutionShare
 Team members name:
 Walid Bounouar - Student number 8917791
 Chris
-Maxime
+Maxime Boileau 8725793
 Abel Ammba 8650391
 Alex
 
