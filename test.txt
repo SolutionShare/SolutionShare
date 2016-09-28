@@ -1,4 +1,4 @@
-file testing in the new_repository
+new file testing in new_repository
 ==================================
 
 _testing_ in the new repository...
