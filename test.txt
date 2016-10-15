@@ -1,4 +1,0 @@
-new file testing in new_repository
-==================================
-
-_tttttesting_ in the new repository...

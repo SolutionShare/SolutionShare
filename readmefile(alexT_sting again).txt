@@ -1,3 +1,0 @@
-hhgchghgh
-
-this is a readMe file played by Alex_testing_the_repository
